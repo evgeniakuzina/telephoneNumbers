@@ -1,0 +1,13 @@
+[
+	{"firstName": "Иван", "lastName": "Иванов", "address": "г.Москва, ул. Алиева, 2", "phoneNumber": "812 123-1234"},
+	{"firstName": "Петр", "lastName": "Первый", "address": "г.Санкт-Петербург, пр-т Невский, 10", "phoneNumber": "812 555-6666"},
+	{"firstName": "Анна", "lastName": "Ахматова", "address": "г.Тула, ул. Советская, 55", "phoneNumber": "926 735-4937"},
+	{"firstName": "Сергей", "lastName": "Есенин", "address": "г.Тверь, ул. Зимняя, 89", "phoneNumber": "916 393-2920"},
+	{"firstName": "Марина", "lastName": "Цветаева", "address": "г.Новосибирск, ул. Советсвих Партизанов, 39", "phoneNumber": "901 494-3938"},
+	{"firstName": "Александр", "lastName": "Блок", "address": "г.Омск, ул. Северная, 18", "phoneNumber": "303 606-4949"},
+	{"firstName": "Иосиф", "lastName": "Бродский", "address": "г.Биробиджан, ул. Шолом-Алейхема, 11", "phoneNumber": "924 648-3937"},
+	{"firstName": "Александр", "lastName": "Пушкин", "address": "г.Иркутск, ул. Ленина, 30", "phoneNumber": "945 393-6493"},
+	{"firstName": "Владимир", "lastName": "Маяковский", "address": "г.Челябинск, ул. Сталеваров, 38", "phoneNumber": "828 467-3957"},
+	{"firstName": "Зинаида", "lastName": "Гиппиус", "address": "г.Архангельск, ул. Карла-Маркса, 12", "phoneNumber": "863 574-6867"}
+
+]
